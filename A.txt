@@ -1,3 +1,4 @@
 hello world!!
 hi
 add text to A.txt
+add text to A.txt 3
