@@ -1,2 +1,3 @@
 hello world!!
 hi
+add text to A.txt
