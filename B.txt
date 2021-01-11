@@ -1,1 +1,2 @@
 this is B.txt
+add text to B.txt 1
